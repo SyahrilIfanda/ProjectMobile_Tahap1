@@ -5,5 +5,6 @@
 ## Kelas : TI.21.C2
 
 
-![image](https://user-images.githubusercontent.com/116256448/198928815-21e7c335-d5e6-4039-90d9-e3805ea9ce00.png)
+![image](https://user-images.githubusercontent.com/116256448/198928944-40173e23-c579-4ec7-a450-77562717a63e.png)
+
 
