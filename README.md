@@ -7,8 +7,8 @@
 
 Project Desai UI dengan menggunakan Android Studio_Tahap 1
 
+![UI](https://user-images.githubusercontent.com/116256448/199435886-9b67b143-4c30-4b00-aac1-ef258f12aeea.png)
 
-![ss1](https://user-images.githubusercontent.com/116256448/198929089-36a618c6-a069-469f-a0ae-008106acb3e6.png)
 
 
 
